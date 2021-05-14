@@ -104,4 +104,4 @@ imprimir_lista(resultado, 'clientes all SELECT * FROM clientes')
 
 # Fecha o cursor e a conexão
 cursor.close()
-conn.close()
+conn.close() 
